@@ -1,10 +1,17 @@
-## Hi there 👋
+## Hi there
 
+I'm Pierre, French, living in the beautiful Netherlands
+
+People are lost in History because dates are too abstract.
+That's why I build wikitime.org (interactive timelines) and histopen.org (History database).
+Some day, I'll tell how the idea came up.
+
+I learnt html, css and js for that purpose.
+Tech stack: ts, react, vite, pixi, three, gsap.
+Special thanks to Copilot.
+
+Wanna contribute? contact@histopen.org
 <!--
-**wikitimepierre/wikitimepierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
